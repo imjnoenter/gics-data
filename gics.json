@@ -763,10 +763,6 @@
   "sector": "Information Technology",
   "subIndustry": "Application Software"
  },
- "BLD": {
-  "sector": "Consumer Discretionary",
-  "subIndustry": "Homebuilding"
- },
  "BLDR": {
   "sector": "Industrials",
   "subIndustry": "Building Products"
@@ -1310,10 +1306,6 @@
  "CPRT": {
   "sector": "Industrials",
   "subIndustry": "Diversified Support Services"
- },
- "CPRX": {
-  "sector": "Health Care",
-  "subIndustry": "Biotechnology"
  },
  "CPT": {
   "sector": "Real Estate",
@@ -2763,6 +2755,10 @@
   "sector": "Health Care",
   "subIndustry": "Health Care Equipment"
  },
+ "IESC": {
+  "sector": "Industrials",
+  "subIndustry": "Construction & Engineering"
+ },
  "IEX": {
   "sector": "Industrials",
   "subIndustry": "Industrial Machinery & Supplies & Components"
@@ -2930,10 +2926,6 @@
  "JEF": {
   "sector": "Financials",
   "subIndustry": "Multi-Sector Holdings"
- },
- "JHG": {
-  "sector": "Financials",
-  "subIndustry": "Asset Management & Custody Banks"
  },
  "JJSF": {
   "sector": "Consumer Staples",
@@ -3158,6 +3150,10 @@
  "LEN": {
   "sector": "Consumer Discretionary",
   "subIndustry": "Homebuilding"
+ },
+ "LEU": {
+  "sector": "Energy",
+  "subIndustry": "Coal & Consumable Fuels"
  },
  "LFST": {
   "sector": "Health Care",
@@ -3834,10 +3830,6 @@
  "NRG": {
   "sector": "Utilities",
   "subIndustry": "Independent Power Producers & Energy Traders"
- },
- "NSA": {
-  "sector": "Real Estate",
-  "subIndustry": "Self-Storage REITs"
  },
  "NSC": {
   "sector": "Industrials",
@@ -4799,6 +4791,10 @@
   "sector": "Information Technology",
   "subIndustry": "Semiconductor Materials & Equipment"
  },
+ "SEI": {
+  "sector": "Energy",
+  "subIndustry": "Oil & Gas Equipment & Services"
+ },
  "SEIC": {
   "sector": "Financials",
   "subIndustry": "Asset Management & Custody Banks"
@@ -5239,10 +5235,6 @@
   "sector": "Health Care",
   "subIndustry": "Health Care Equipment"
  },
- "TMHC": {
-  "sector": "Consumer Discretionary",
-  "subIndustry": "Homebuilding"
- },
  "TMO": {
   "sector": "Health Care",
   "subIndustry": "Life Sciences Tools & Services"
@@ -5270,6 +5262,10 @@
  "TOL": {
   "sector": "Consumer Discretionary",
   "subIndustry": "Homebuilding"
+ },
+ "TOST": {
+  "sector": "Financials",
+  "subIndustry": "Transaction & Payment Processing Services"
  },
  "TPL": {
   "sector": "Energy",
@@ -5894,10 +5890,6 @@
  "WSO": {
   "sector": "Industrials",
   "subIndustry": "Trading Companies & Distributors"
- },
- "WSR": {
-  "sector": "Real Estate",
-  "subIndustry": "Retail REITs"
  },
  "WST": {
   "sector": "Health Care",
