@@ -551,10 +551,6 @@
   "sector": "Information Technology",
   "subIndustry": "Semiconductors"
  },
- "AVNS": {
-  "sector": "Health Care",
-  "subIndustry": "Health Care Supplies"
- },
  "AVNT": {
   "sector": "Materials",
   "subIndustry": "Specialty Chemicals"
@@ -2536,7 +2532,7 @@
   "subIndustry": "Electric Utilities"
  },
  "HFWA": {
-  "sector": "Health Care",
+  "sector": "Financials",
   "subIndustry": "Regional Banks"
  },
  "HGV": {
@@ -3078,6 +3074,10 @@
  "KRG": {
   "sector": "Real Estate",
   "subIndustry": "Retail REITs"
+ },
+ "KRMN": {
+  "sector": "Industrials",
+  "subIndustry": "Aerospace & Defense"
  },
  "KRYS": {
   "sector": "Health Care",
@@ -4615,6 +4615,10 @@
   "sector": "Financials",
   "subIndustry": "Regional Banks"
  },
+ "ROAD": {
+  "sector": "Industrials",
+  "subIndustry": "Construction & Engineering"
+ },
  "ROCK": {
   "sector": "Industrials",
   "subIndustry": "Building Products"
@@ -5267,6 +5271,10 @@
   "sector": "Financials",
   "subIndustry": "Transaction & Payment Processing Services"
  },
+ "TPC": {
+  "sector": "Industrials",
+  "subIndustry": "Construction & Engineering"
+ },
  "TPL": {
   "sector": "Energy",
   "subIndustry": "Oil & Gas Exploration & Production"
@@ -5702,6 +5710,10 @@
  "VVV": {
   "sector": "Consumer Discretionary",
   "subIndustry": "Automotive Retail"
+ },
+ "VVX": {
+  "sector": "Industrials",
+  "subIndustry": "Aerospace & Defense"
  },
  "VYX": {
   "sector": "Information Technology",
