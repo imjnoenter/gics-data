@@ -440,8 +440,8 @@
   "subIndustry": "Building Products"
  },
  "APP": {
-  "sector": "Information Technology",
-  "subIndustry": "Application Software"
+  "sector": "Communication Services",
+  "subIndustry": "Advertising"
  },
  "APPF": {
   "sector": "Information Technology",
@@ -1548,8 +1548,8 @@
   "subIndustry": "Regional Banks"
  },
  "DD": {
-  "sector": "Materials",
-  "subIndustry": "Specialty Chemicals"
+  "sector": "Industrials",
+  "subIndustry": "Industrial Conglomerates"
  },
  "DDOG": {
   "sector": "Information Technology",
@@ -1730,10 +1730,6 @@
  "DY": {
   "sector": "Industrials",
   "subIndustry": "Construction & Engineering"
- },
- "EA": {
-  "sector": "Communication Services",
-  "subIndustry": "Interactive Home Entertainment"
  },
  "EAT": {
   "sector": "Consumer Discretionary",
@@ -2095,6 +2091,10 @@
   "sector": "Industrials",
   "subIndustry": "Industrial Machinery & Supplies & Components"
  },
+ "FERG": {
+  "sector": "Industrials",
+  "subIndustry": "Building Products"
+ },
  "FFBC": {
   "sector": "Financials",
   "subIndustry": "Regional Banks"
@@ -2146,6 +2146,10 @@
  "FIVE": {
   "sector": "Consumer Discretionary",
   "subIndustry": "Specialty Stores"
+ },
+ "FIVN": {
+  "sector": "Information Technology",
+  "subIndustry": "Application Software"
  },
  "FIX": {
   "sector": "Industrials",
@@ -5374,10 +5378,6 @@
  "TWLO": {
   "sector": "Information Technology",
   "subIndustry": "Systems Software"
- },
- "TWO": {
-  "sector": "Financials",
-  "subIndustry": "Mortgage REITs"
  },
  "TXN": {
   "sector": "Information Technology",
