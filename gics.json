@@ -123,6 +123,10 @@
   "sector": "Information Technology",
   "subIndustry": "Semiconductors"
  },
+ "ADIG": {
+  "sector": "Information Technology",
+  "subIndustry": "Electronic Equipment & Instruments"
+ },
  "ADM": {
   "sector": "Consumer Staples",
   "subIndustry": "Agricultural Products & Services"
@@ -2674,10 +2678,6 @@
  "HTO": {
   "sector": "Utilities",
   "subIndustry": "Water Utilities"
- },
- "HTZ": {
-  "sector": "Industrials",
-  "subIndustry": "Passenger Ground Transportation"
  },
  "HUBB": {
   "sector": "Industrials",
