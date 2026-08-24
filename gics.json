@@ -547,10 +547,6 @@
   "sector": "Industrials",
   "subIndustry": "Aerospace & Defense"
  },
- "AVB": {
-  "sector": "Real Estate",
-  "subIndustry": "Multi-Family Residential REITs"
- },
  "AVGO": {
   "sector": "Information Technology",
   "subIndustry": "Semiconductors"
@@ -1898,10 +1894,6 @@
  "EQIX": {
   "sector": "Real Estate",
   "subIndustry": "Data Center REITs"
- },
- "EQR": {
-  "sector": "Real Estate",
-  "subIndustry": "Multi-Family Residential REITs"
  },
  "EQT": {
   "sector": "Energy",
@@ -4515,6 +4507,10 @@
   "sector": "Health Care",
   "subIndustry": "Biotechnology"
  },
+ "RDDT": {
+  "sector": "Communication Services",
+  "subIndustry": "Interactive Media & Services"
+ },
  "RDN": {
   "sector": "Financials",
   "subIndustry": "Property & Casualty Insurance"
@@ -5083,6 +5079,10 @@
   "sector": "Consumer Staples",
   "subIndustry": "Distillers & Vintners"
  },
+ "SUI": {
+  "sector": "Real Estate",
+  "subIndustry": "Single-Family Residential REITs"
+ },
  "SUPN": {
   "sector": "Health Care",
   "subIndustry": "Pharmaceuticals"
@@ -5627,6 +5627,10 @@
   "sector": "Industrials",
   "subIndustry": "Industrial Machinery & Supplies & Components"
  },
+ "VMRK": {
+  "sector": "Real Estate",
+  "subIndustry": "Multi-Family Residential REITs"
+ },
  "VNO": {
   "sector": "Real Estate",
   "subIndustry": "Office REITs"
@@ -5750,10 +5754,6 @@
  "WBD": {
   "sector": "Communication Services",
   "subIndustry": "Broadcasting"
- },
- "WBS": {
-  "sector": "Financials",
-  "subIndustry": "Regional Banks"
  },
  "WCC": {
   "sector": "Industrials",
