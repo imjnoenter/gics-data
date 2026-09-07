@@ -2089,7 +2089,7 @@
  },
  "FERG": {
   "sector": "Industrials",
-  "subIndustry": "Building Products"
+  "subIndustry": "Trading Companies & Distributors"
  },
  "FFBC": {
   "sector": "Financials",
@@ -5079,10 +5079,6 @@
   "sector": "Consumer Staples",
   "subIndustry": "Distillers & Vintners"
  },
- "SUI": {
-  "sector": "Real Estate",
-  "subIndustry": "Single-Family Residential REITs"
- },
  "SUPN": {
   "sector": "Health Care",
   "subIndustry": "Pharmaceuticals"
@@ -5754,6 +5750,10 @@
  "WBD": {
   "sector": "Communication Services",
   "subIndustry": "Broadcasting"
+ },
+ "WBS": {
+  "sector": "Financials",
+  "subIndustry": "Regional Banks"
  },
  "WCC": {
   "sector": "Industrials",
