@@ -679,6 +679,10 @@
   "sector": "Health Care",
   "subIndustry": "Health Care Equipment"
  },
+ "BE": {
+  "sector": "Industrials",
+  "subIndustry": "Electrical Components & Equipment"
+ },
  "BEN": {
   "sector": "Financials",
   "subIndustry": "Asset Management & Custody Banks"
@@ -758,10 +762,6 @@
  "BL": {
   "sector": "Information Technology",
   "subIndustry": "Application Software"
- },
- "BLDR": {
-  "sector": "Industrials",
-  "subIndustry": "Building Products"
  },
  "BLFS": {
   "sector": "Health Care",
@@ -5135,10 +5135,6 @@
   "sector": "Energy",
   "subIndustry": "Oil & Gas Exploration & Production"
  },
- "TAP": {
-  "sector": "Consumer Staples",
-  "subIndustry": "Brewers"
- },
  "TBBK": {
   "sector": "Financials",
   "subIndustry": "Regional Banks"
@@ -5358,10 +5354,6 @@
  "TTC": {
   "sector": "Industrials",
   "subIndustry": "Agricultural & Farm Machinery"
- },
- "TTD": {
-  "sector": "Communication Services",
-  "subIndustry": "Advertising"
  },
  "TTEK": {
   "sector": "Industrials",
