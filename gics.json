@@ -191,6 +191,10 @@
   "sector": "Industrials",
   "subIndustry": "Agricultural & Farm Machinery"
  },
+ "AGNC": {
+  "sector": "Financials",
+  "subIndustry": "Mortgage REITs"
+ },
  "AGNT": {
   "sector": "Real Estate",
   "subIndustry": "Real Estate Services"
@@ -1294,10 +1298,6 @@
  "CPK": {
   "sector": "Utilities",
   "subIndustry": "Gas Utilities"
- },
- "CPRI": {
-  "sector": "Consumer Discretionary",
-  "subIndustry": "Apparel, Accessories & Luxury Goods"
  },
  "CPRT": {
   "sector": "Industrials",
@@ -2678,6 +2678,10 @@
  "HUBG": {
   "sector": "Industrials",
   "subIndustry": "Air Freight & Logistics"
+ },
+ "HUBS": {
+  "sector": "Information Technology",
+  "subIndustry": "Application Software"
  },
  "HUM": {
   "sector": "Health Care",
@@ -4730,10 +4734,6 @@
  "SAIC": {
   "sector": "Industrials",
   "subIndustry": "Diversified Support Services"
- },
- "SAM": {
-  "sector": "Consumer Staples",
-  "subIndustry": "Brewers"
  },
  "SANM": {
   "sector": "Information Technology",
