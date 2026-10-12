@@ -3991,10 +3991,6 @@
   "sector": "Consumer Discretionary",
   "subIndustry": "Broadline Retail"
  },
- "OLN": {
-  "sector": "Materials",
-  "subIndustry": "Diversified Chemicals"
- },
  "OMC": {
   "sector": "Communication Services",
   "subIndustry": "Advertising"
@@ -4402,10 +4398,6 @@
  "PSA": {
   "sector": "Real Estate",
   "subIndustry": "Self-Storage REITs"
- },
- "PSKY": {
-  "sector": "Communication Services",
-  "subIndustry": "Movies & Entertainment"
  },
  "PSMT": {
   "sector": "Consumer Staples",
@@ -4878,6 +4870,10 @@
  "SKY": {
   "sector": "Consumer Discretionary",
   "subIndustry": "Homebuilding"
+ },
+ "SKYD": {
+  "sector": "Communication Services",
+  "subIndustry": "Movies & Entertainment"
  },
  "SKYW": {
   "sector": "Industrials",
@@ -5711,6 +5707,10 @@
   "sector": "Industrials",
   "subIndustry": "Aerospace & Defense"
  },
+ "VYLR": {
+  "sector": "Consumer Staples",
+  "subIndustry": "Agricultural Products & Services"
+ },
  "VYX": {
   "sector": "Information Technology",
   "subIndustry": "IT Consulting & Other Services"
@@ -5742,10 +5742,6 @@
  "WAY": {
   "sector": "Health Care",
   "subIndustry": "Health Care Technology"
- },
- "WBD": {
-  "sector": "Communication Services",
-  "subIndustry": "Broadcasting"
  },
  "WCC": {
   "sector": "Industrials",
