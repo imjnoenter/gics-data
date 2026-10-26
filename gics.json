@@ -509,7 +509,7 @@
  },
  "ASO": {
   "sector": "Consumer Discretionary",
-  "subIndustry": "Specialty Stores"
+  "subIndustry": "Other Specialty Retail"
  },
  "ASTE": {
   "sector": "Industrials",
@@ -1617,7 +1617,7 @@
  },
  "DKS": {
   "sector": "Consumer Discretionary",
-  "subIndustry": "Specialty Stores"
+  "subIndustry": "Other Specialty Retail"
  },
  "DLB": {
   "sector": "Information Technology",
@@ -2001,7 +2001,7 @@
  },
  "EYE": {
   "sector": "Consumer Discretionary",
-  "subIndustry": "Specialty Stores"
+  "subIndustry": "Other Specialty Retail"
  },
  "EZPW": {
   "sector": "Financials",
@@ -2141,7 +2141,7 @@
  },
  "FIVE": {
   "sector": "Consumer Discretionary",
-  "subIndustry": "Specialty Stores"
+  "subIndustry": "Other Specialty Retail"
  },
  "FIVN": {
   "sector": "Information Technology",
@@ -2705,7 +2705,7 @@
  },
  "HZO": {
   "sector": "Consumer Discretionary",
-  "subIndustry": "Specialty Stores"
+  "subIndustry": "Other Specialty Retail"
  },
  "IART": {
   "sector": "Health Care",
@@ -4745,7 +4745,7 @@
  },
  "SBH": {
   "sector": "Consumer Discretionary",
-  "subIndustry": "Specialty Stores"
+  "subIndustry": "Other Specialty Retail"
  },
  "SBRA": {
   "sector": "Real Estate",
@@ -4845,7 +4845,7 @@
  },
  "SIG": {
   "sector": "Consumer Discretionary",
-  "subIndustry": "Specialty Stores"
+  "subIndustry": "Other Specialty Retail"
  },
  "SIGI": {
   "sector": "Financials",
