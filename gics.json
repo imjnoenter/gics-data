@@ -3095,10 +3095,6 @@
   "sector": "Industrials",
   "subIndustry": "Aerospace & Defense"
  },
- "KVUE": {
-  "sector": "Consumer Staples",
-  "subIndustry": "Personal Care Products"
- },
  "KWR": {
   "sector": "Materials",
   "subIndustry": "Specialty Chemicals"
@@ -3603,7 +3599,7 @@
   "sector": "Information Technology",
   "subIndustry": "Systems Software"
  },
- "MSGS": {
+ "MSGK": {
   "sector": "Communication Services",
   "subIndustry": "Movies & Entertainment"
  },
