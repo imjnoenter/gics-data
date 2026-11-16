@@ -2923,6 +2923,10 @@
   "sector": "Financials",
   "subIndustry": "Multi-Sector Holdings"
  },
+ "JHX": {
+  "sector": "Materials",
+  "subIndustry": "Construction Materials"
+ },
  "JJSF": {
   "sector": "Consumer Staples",
   "subIndustry": "Packaged Foods & Meats"
@@ -4626,10 +4630,6 @@
  "ROK": {
   "sector": "Industrials",
   "subIndustry": "Electrical Components & Equipment"
- },
- "ROKU": {
-  "sector": "Communication Services",
-  "subIndustry": "Movies & Entertainment"
  },
  "ROL": {
   "sector": "Industrials",
