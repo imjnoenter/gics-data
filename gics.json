@@ -747,10 +747,6 @@
   "sector": "Consumer Discretionary",
   "subIndustry": "Apparel Retail"
  },
- "BKH": {
-  "sector": "Utilities",
-  "subIndustry": "Multi-Utilities"
- },
  "BKNG": {
   "sector": "Consumer Discretionary",
   "subIndustry": "Hotels, Resorts & Cruise Lines"
@@ -1114,6 +1110,10 @@
  "CHWY": {
   "sector": "Consumer Discretionary",
   "subIndustry": "Other Specialty Retail"
+ },
+ "CHYM": {
+  "sector": "Financials",
+  "subIndustry": "Consumer Finance"
  },
  "CI": {
   "sector": "Health Care",
@@ -2703,6 +2703,10 @@
   "sector": "Industrials",
   "subIndustry": "Aerospace & Defense"
  },
+ "HZN": {
+  "sector": "Utilities",
+  "subIndustry": "Multi-Utilities"
+ },
  "HZO": {
   "sector": "Consumer Discretionary",
   "subIndustry": "Other Specialty Retail"
@@ -3890,10 +3894,6 @@
  "NWBI": {
   "sector": "Financials",
   "subIndustry": "Regional Banks"
- },
- "NWE": {
-  "sector": "Utilities",
-  "subIndustry": "Multi-Utilities"
  },
  "NWL": {
   "sector": "Consumer Discretionary",
